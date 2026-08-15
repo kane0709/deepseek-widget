@@ -1,0 +1,7 @@
+# 本地配置文件包含加密后的 API Key 和用量 Token，请勿提交
+config.json
+
+# 系统与编辑器文件
+.DS_Store
+Thumbs.db
+*.log
